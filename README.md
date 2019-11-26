@@ -1,0 +1,1 @@
+HCC dataset'ten alınan 5 farklı türden epilepsi hastalığına ait heresinden 100'er adet verinin bulunduğu epilepsi datalarını kendi teoremim olan 32'li özellik çıkardığım asim.m dosyası ile özellik çıkartıp sınıflandırıcı'da yorumluyorum. Sınıflandırıcı %80 bir başarı ile hastalıkları sınıflandırıyor ve %20'lik bir sapma yaşıyor.
